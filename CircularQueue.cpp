@@ -86,7 +86,8 @@ int main()
     qu.enqueue(2);
     qu.enqueue(3);
     qu.enqueue(4);
-    qu.enqueue(5);
+    qu.enqueue(10);
+  
     qu.peek();
     qu.display();
     qu.dequeue();
